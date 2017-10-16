@@ -1,1 +1,1 @@
-<h1> Face Recognization using K Nearest Neighbour and Principal Component Analysis</h1>
+<h1> Face Recognization using sklearn library</h1>
